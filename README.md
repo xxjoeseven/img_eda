@@ -1,2 +1,5 @@
 # img_eda
-Sandbox for image eda
+
+Image EDA sandox for chasedb1 dataset.
+
+WIP
